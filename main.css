@@ -65,7 +65,7 @@
     }
     .email {
         text-align: center;
-        margin-top: 15%;
+        margin-top: 5%;
     }
     .info-titles {
         margin-left: 10px;
@@ -82,11 +82,11 @@
         flex-wrap: wrap;
         margin: auto;
         width: 25%;
-        margin-top: 15%;
-        height: 400px;
+        margin-top: 5%;
+        height: 325px;
     }
     .footer {
         position: fixed;
-        bottom: 5%;
+        bottom: 3%;
     }
 }
