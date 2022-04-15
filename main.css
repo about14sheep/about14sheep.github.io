@@ -4,6 +4,7 @@ body {
     justify-content: space-between;
     align-items: center;
     margin: 15%;
+    background-color: #e5e4e2;
 }
 .footer {
     position: fixed;
