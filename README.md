@@ -83,3 +83,6 @@ Change the `border-color` to whatever you like
 
 ### Make it yours
 This is a simple html file with not a lot going on. Have fun with it, or keep it the way it is. Its up to you!
+
+### Hosting your Online Identity Mapping
+To host this site in all its glory I went the easy route. I turned it into a [github pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site). This will be pretty simple from where your at now and that link should explain it pretty well.
