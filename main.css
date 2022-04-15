@@ -1,7 +1,13 @@
 body {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
     margin: 15%;
+}
+.footer {
+    position: fixed;
+    bottom: 5px;
 }
 .email {
     margin-right: 10px;
