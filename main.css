@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+}
+.email {
+    margin-right: 10px;
+}
+.card-body {
+    width: 400px;
+    height: 175px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+}
+.info-image {
+    border-radius: 25px;
+}
+.info {
+    display: flex;
+}
+.info-titles {
+    margin-left: 10px;
+    justify-content: start;
+}
+.card-info {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+.card-links {
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
